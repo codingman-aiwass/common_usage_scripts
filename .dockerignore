@@ -1,0 +1,16 @@
+*
+!AppUIAutomator2Navigation
+!context_sensitive_privacy_data_location
+!docker_result
+!Privacy-compliance-detection-2.1
+!run.py
+!get_urls.py
+!config.ini
+!adbkey
+!sourcelist.txt
+!chi_sim.traineddata
+!IP.txt
+!prepareInDocker.sh
+!model
+!requirements_docker.txt
+!requirements_yolov5.txt
